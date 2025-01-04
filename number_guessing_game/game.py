@@ -15,8 +15,6 @@ def main() -> None:
         welcome_msg()
         diff, chances = get_input()
         new_highscore = play(highscore_data, randint(1,100), diff, chances)
-        #small test
-        print(new_highscore)
         list_highscore(new_highscore)
 
         while True:
