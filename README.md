@@ -1,6 +1,6 @@
 # Number Guessing Game
 
-This is my solution to the [Number Guessing Game]("https://roadmap.sh/projects/number-guessing-game") project from [roadmap.sh]("https://roadmap.sh/"), where you can play a number guessing game on the command-line interface.
+This is my solution to the [Number Guessing Game](https://roadmap.sh/projects/number-guessing-game) project from [roadmap.sh](https://roadmap.sh/), where you can play a number guessing game on the command-line interface.
 
 ## Features
 
